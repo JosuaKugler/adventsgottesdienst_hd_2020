@@ -1,0 +1,7 @@
+# IntelliJ IDEA Files
+/target/
+*.iml
+.idea
+
+# Other annoying stuff
+.DS_STORE
